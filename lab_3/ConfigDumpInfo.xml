@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Предметы" id="e8c0eaa2-cbf9-4746-ac1f-8d8e9e3cd9b2" configVersion="e64d699e70113a44aba36f8715bcf8f800000000"/>
+		<Metadata name="Catalog.Студенты" id="dbe62a1c-91bc-4b48-9945-85b3f40bc216" configVersion="9c31a778a5f01c4baff528881aede8e300000000">
+			<Metadata name="Catalog.Студенты.Attribute.Телефон" id="4939aa1f-d994-43bd-b75f-ea85bce3e795"/>
+			<Metadata name="Catalog.Студенты.TabularSection.СписокПредметов" id="8f03875a-806c-44d7-90a9-bd6da871d741"/>
+			<Metadata name="Catalog.Студенты.TabularSection.СписокПредметов.Attribute.Предмет" id="e286d2b0-ddd3-4393-a794-78542767d27a"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="3757df2d-9744-44c6-89b8-ccc12732ab1b" configVersion="011500871a6b8e4db51f039c04a4e0e400000000"/>
+		<Metadata name="Language.Русский" id="4d0a03cd-ee16-4f89-a494-724cce1f71e2" configVersion="4ac3aaf455629b4684eff5b198055c5200000000"/>
+		<Metadata name="Report.СписокСтудентовПоПредметам" id="daab5203-aebe-468a-8240-13fc3ca5ebc6" configVersion="552df1c429855545b8d7d9ea002d77d500000000"/>
+		<Metadata name="Report.СписокСтудентовПоПредметам.Template.ОсновнаяСхемаКомпоновкиДанных" id="4a6ef9dc-995a-4b79-b8a6-b135e6571a40" configVersion="d8d9423b2a422042a7c9a6cc6994f21700000000"/>
+		<Metadata name="Report.СписокСтудентовПоПредметам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="4a6ef9dc-995a-4b79-b8a6-b135e6571a40.0" configVersion="3899f960e9461e41a49f8d30c7ff19e800000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
