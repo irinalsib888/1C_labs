@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Клиенты" id="ae7201a2-5bbf-4e0e-ab43-a5904f0d44b7" configVersion="e01c184c62f1d641a663f6b2b96b0e6c00000000"/>
+		<Metadata name="Catalog.Экскурсии" id="5bf2a3c8-bdf7-44dc-ae5e-15bbbed8a1f2" configVersion="bc0943b78280394e8423f5d5d84049a700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="786bfc69-ca43-4542-9be9-a3ee31a38112" configVersion="ce4da6610bc2534080a3333053e542eb00000000"/>
+		<Metadata name="Document.Бронь" id="2f005175-1222-483c-b848-4ddab21d4d92" configVersion="3632a44b4791b84487ed12aab5b5618000000000">
+			<Metadata name="Document.Бронь.Attribute.Клиент" id="3cef442d-5e67-401c-9480-06c547ed6ebc"/>
+			<Metadata name="Document.Бронь.Attribute.Экскурсия" id="b768063c-f712-4a0a-8068-1887b709130f"/>
+		</Metadata>
+		<Metadata name="Document.ПосещениеЭкскурсии" id="c2802ada-1f2e-48e6-bbaf-1923762db3fc" configVersion="f3dcac3045ce6a41b52749ff022621dd00000000">
+			<Metadata name="Document.ПосещениеЭкскурсии.Attribute.Экскурсия" id="1ad945de-f77e-47b5-ac49-e65be343aad0"/>
+			<Metadata name="Document.ПосещениеЭкскурсии.Attribute.СпособОплаты" id="26576438-84da-4995-9b67-36ee6d77c2bb"/>
+			<Metadata name="Document.ПосещениеЭкскурсии.Attribute.Бронь" id="3a00bc3c-c3c3-4ef9-abae-3ce966664c40"/>
+			<Metadata name="Document.ПосещениеЭкскурсии.Attribute.Клиент" id="63112d48-b534-4c3f-96b2-6b3df8bcb62b"/>
+			<Metadata name="Document.ПосещениеЭкскурсии.Attribute.Сумма" id="90ba32da-cd1a-4b69-959d-a49a6d6e9eb9"/>
+		</Metadata>
+		<Metadata name="Document.ПосещениеЭкскурсии.ObjectModule" id="c2802ada-1f2e-48e6-bbaf-1923762db3fc.0" configVersion="83a3b42f60a6754888b385abb0560fc100000000"/>
+		<Metadata name="Enum.СпособОплаты" id="2e48331a-99be-4aea-a180-d01af4c23280" configVersion="8808bd1b4b96da4a9f8a8e9faa129e7c00000000">
+			<Metadata name="Enum.СпособОплаты.EnumValue.БанковскаяКарта" id="08204092-d8cd-4702-8e0b-3a8b00eb7ddc"/>
+			<Metadata name="Enum.СпособОплаты.EnumValue.Наличные" id="211fe74b-8314-4124-8238-bedeaf0e79a0"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="e93c08a5-dccc-429e-a770-67614cb91c4b" configVersion="37554d05a328854186918417b982fd8600000000"/>
+		<Metadata name="Report.ДоходыСЭкскурсий" id="4c1759dd-b81b-4b64-bf63-527ac3c41275" configVersion="3748120e947e854cb9dc68e7dc8103d100000000"/>
+		<Metadata name="Report.ДоходыСЭкскурсий.Template.ОсновнаяСхемаКомпоновкиДанных" id="dd675abb-9c18-4ccf-9f9e-95f43310b81d" configVersion="fb916b9a3d52e743abcefafe692ce9b400000000"/>
+		<Metadata name="Report.ДоходыСЭкскурсий.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="dd675abb-9c18-4ccf-9f9e-95f43310b81d.0" configVersion="257b5fc99ea4ab40bfa7e288fcbb1f4500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
