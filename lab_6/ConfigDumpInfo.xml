@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Касса" id="e09aa64c-d9f4-4d5d-bff1-a18f57ec8ab5" configVersion="5a609fb699946640b0032150de2d1a2100000000">
+			<Metadata name="AccumulationRegister.Касса.Resource.Сумма" id="c659efdb-6af5-4e6f-a21f-43c6760f5894"/>
+		</Metadata>
+		<Metadata name="Catalog.Контрагенты" id="69519e74-5980-4dfb-a5a5-2e658d626f05" configVersion="8682ecb8016b484aa633f30733047c1b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="32299014-06b1-418f-b294-5263ee230932" configVersion="1e55041a1b1d26469e6e5ebf841ef01500000000"/>
+		<Metadata name="Document.ПКО" id="2e9edbac-670c-4b8b-bf1c-4a0ae6c362e7" configVersion="dff635dc4dad644894f44b9711b4b8da00000000">
+			<Metadata name="Document.ПКО.Attribute.Сумма" id="16606615-434f-4a25-8383-7245bc595d97"/>
+			<Metadata name="Document.ПКО.Attribute.Контрагент" id="9f6b4114-10d8-47b2-9eb0-64f074cc9506"/>
+		</Metadata>
+		<Metadata name="Document.ПКО.ObjectModule" id="2e9edbac-670c-4b8b-bf1c-4a0ae6c362e7.0" configVersion="1e9c091d3910d047b21096ce270ae34a00000000"/>
+		<Metadata name="Document.РКО" id="6d73ce47-c94c-477a-92cf-6c79a30442ce" configVersion="1c4cf5c076ec9f45b6c7a6712eb3bfa700000000">
+			<Metadata name="Document.РКО.Attribute.Сумма" id="2608d133-2dab-441d-83a1-6fc09450740e"/>
+			<Metadata name="Document.РКО.Attribute.Контрагент" id="90559df2-9acb-4a22-91be-287c6c6b3c20"/>
+		</Metadata>
+		<Metadata name="Document.РКО.Help" id="6d73ce47-c94c-477a-92cf-6c79a30442ce.1" configVersion="3c0bb344f200ed4ea5c9c08ef8c2f46b00000000"/>
+		<Metadata name="Document.РКО.ManagerModule" id="6d73ce47-c94c-477a-92cf-6c79a30442ce.2" configVersion="36a3ef0a3fc80844acbd78f3bf55aa2000000000"/>
+		<Metadata name="Document.РКО.ObjectModule" id="6d73ce47-c94c-477a-92cf-6c79a30442ce.0" configVersion="346795fef18fd04bb20918d8776d2e8c00000000"/>
+		<Metadata name="DocumentJournal.КассовыеДокументы" id="bf298dd3-3789-4497-9837-6d2a4c76894a" configVersion="1211f6650396a747a3b6b83b9156fa3900000000">
+			<Metadata name="DocumentJournal.КассовыеДокументы.Column.Контрагент" id="1916bc9b-e5b7-4893-a03e-fee56c105270"/>
+			<Metadata name="DocumentJournal.КассовыеДокументы.Column.Сумма" id="cd37e466-d552-48da-a8b9-ad5090c7d4e6"/>
+		</Metadata>
+		<Metadata name="DocumentJournal.КассовыеДокументы.Form.ФормаСписка" id="27d2f643-4914-496c-b745-169289cd8b2d" configVersion="d62d9b835c80764fb29614e16605054000000000"/>
+		<Metadata name="DocumentJournal.КассовыеДокументы.Form.ФормаСписка.Form" id="27d2f643-4914-496c-b745-169289cd8b2d.0" configVersion="1c84c5dbc664754b854c02878279f4fb00000000"/>
+		<Metadata name="DocumentNumerator.КассовыеДокументы" id="30bb29a2-081e-412b-bb0f-a6bcd04d120f" configVersion="ebda028abc9b804c88e4d6b3b5cda23100000000"/>
+		<Metadata name="Language.Русский" id="3c257a21-0fe8-4c4d-bf6e-b19569366ce8" configVersion="9654ee5aa7d68d419d9348a9d6ce379500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
