@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.УспеваемостьСтудентов" id="59326c3b-787c-4931-9f7c-946cfe7abfe7" configVersion="3a4b08e2edfdcf47bae04cddab27057900000000">
+			<Metadata name="AccumulationRegister.УспеваемостьСтудентов.Dimension.Дисциплина" id="22d0a4cd-1c83-4718-924f-7f85e75e884b"/>
+			<Metadata name="AccumulationRegister.УспеваемостьСтудентов.Dimension.Студент" id="c481fedb-e736-448c-abd9-346a6858b2f4"/>
+			<Metadata name="AccumulationRegister.УспеваемостьСтудентов.Resource.Оценка" id="cfeef3cf-6554-49cf-966b-bf7f0b0566fb"/>
+		</Metadata>
+		<Metadata name="Catalog.Дисциплины" id="5c7a6deb-7380-4243-b71a-99330a544695" configVersion="22a773f491442943a40eb6c3e0ad486100000000"/>
+		<Metadata name="Catalog.Студенты" id="5639ec9f-f0c6-41d7-a145-acb4fd2518b9" configVersion="df641abf3e196b4c8a6f0788b4cfc1bb00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="b922bbad-b98d-4c98-852d-ab18bbe941a3" configVersion="272f0bb53e76c748907065fe070b659900000000"/>
+		<Metadata name="Document.ЗанятияСтудентов" id="f3917341-02e2-4307-96fb-ad962cea73d7" configVersion="df32f49fba9ff24e80e0514c9214323a00000000">
+			<Metadata name="Document.ЗанятияСтудентов.TabularSection.СписокСтудентов.Attribute.Студент" id="57707d44-9e4d-465f-9db9-37d328678f92"/>
+			<Metadata name="Document.ЗанятияСтудентов.Attribute.Дисциплина" id="6788f247-de58-49e5-8543-6eb59d3fcdf0"/>
+			<Metadata name="Document.ЗанятияСтудентов.TabularSection.СписокСтудентов" id="a16661cf-c5e5-46db-85c6-3fb97174c94b"/>
+			<Metadata name="Document.ЗанятияСтудентов.TabularSection.СписокСтудентов.Attribute.Оценка" id="d650ec18-36ff-4647-8018-5d01cd8ad010"/>
+		</Metadata>
+		<Metadata name="Document.ЗанятияСтудентов.ObjectModule" id="f3917341-02e2-4307-96fb-ad962cea73d7.0" configVersion="412119581b50be47b8c56169e0d90a5900000000"/>
+		<Metadata name="Language.Русский" id="67707bee-53fc-4daa-b6ac-246c1dd377e4" configVersion="c0bea4f5bd073042a306ae8d3bc2483d00000000"/>
+		<Metadata name="Report.УспеваемостьСтудентов" id="3fe7d9f0-398a-4a16-9c9a-40468aaf2887" configVersion="6a81da1b5dea8b43a054cd5b954b1bd800000000"/>
+		<Metadata name="Report.УспеваемостьСтудентов.Template.ОсновнаяСхемаКомпоновкиДанных" id="920e52c2-00fa-41aa-8f02-12cd34313ba3" configVersion="8992d9c4d64ee84082dea5f3b599419f00000000"/>
+		<Metadata name="Report.УспеваемостьСтудентов.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="920e52c2-00fa-41aa-8f02-12cd34313ba3.0" configVersion="6e99c499088985468619a03f5b15418600000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
