@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.АрендаСамокатов" id="551f7523-3d1a-4ede-8e42-8c3d857d8b1c" configVersion="4623c7e68db9974bb58bbe14affb8e4a00000000">
+			<Metadata name="AccumulationRegister.АрендаСамокатов.Resource.Количество" id="bf884cca-7e66-4746-848b-c533230c57f4"/>
+			<Metadata name="AccumulationRegister.АрендаСамокатов.Dimension.Студент" id="d5eaf8bf-4168-42a9-804c-e90ce9cbf670"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.ОстаткиСамокатов" id="123a5905-9b13-4c2e-b79a-f6d6ceff2f40" configVersion="65e9335754f5a1419022baeb4adfe8e000000000">
+			<Metadata name="AccumulationRegister.ОстаткиСамокатов.Resource.Количество" id="1da333c0-512b-4fe0-8f07-1618dcd9b9e1"/>
+		</Metadata>
+		<Metadata name="Catalog.Студенты" id="3bfa11c3-d0b4-4359-bb13-fd19e7f7ade2" configVersion="f054900dd5aecc4a8cf30867816849a000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="2a5f650e-541b-42d1-985b-15186ee18987" configVersion="de20ef50a74ad2469d9a9eef1881a4be00000000"/>
+		<Metadata name="Document.Возврат" id="c1ad3af0-91f7-4907-9549-2aa4e9ba80af" configVersion="419e0366cfe3964d89150b918835c76500000000">
+			<Metadata name="Document.Возврат.Attribute.Студент" id="cb53250d-8293-4051-9e61-3505b4c81b5c"/>
+		</Metadata>
+		<Metadata name="Document.Возврат.Help" id="c1ad3af0-91f7-4907-9549-2aa4e9ba80af.1" configVersion="450acd0d29a692488846a121558a213600000000"/>
+		<Metadata name="Document.Возврат.ManagerModule" id="c1ad3af0-91f7-4907-9549-2aa4e9ba80af.2" configVersion="e08c032760fd79489fd04c45e19e920100000000"/>
+		<Metadata name="Document.Возврат.ObjectModule" id="c1ad3af0-91f7-4907-9549-2aa4e9ba80af.0" configVersion="138f024b078fc544a0da9d05fbae640100000000"/>
+		<Metadata name="Document.Закупка" id="9c7113a5-6576-42b4-befd-282eb778c8ff" configVersion="fb0880b3dd4cd845904a59c72e9463cd00000000">
+			<Metadata name="Document.Закупка.Attribute.Количество" id="76dcf6c4-ff98-4b1a-8ff3-96f002b79a26"/>
+		</Metadata>
+		<Metadata name="Document.Закупка.ObjectModule" id="9c7113a5-6576-42b4-befd-282eb778c8ff.0" configVersion="9aa1b9eb7b28b34c9fe34f3337a1a50d00000000"/>
+		<Metadata name="Document.СдачаВАренду" id="3ee56bd8-0c61-44fb-90a0-da9e384a212a" configVersion="561447b971dc7444a6c44f054435ca8300000000">
+			<Metadata name="Document.СдачаВАренду.Attribute.Студент" id="4c9b939e-73e2-4258-a03a-1eb63c52f436"/>
+		</Metadata>
+		<Metadata name="Document.СдачаВАренду.ObjectModule" id="3ee56bd8-0c61-44fb-90a0-da9e384a212a.0" configVersion="53db3b57d3b7ee48acfdd810a2374d9a00000000"/>
+		<Metadata name="Language.Русский" id="41a3b278-9232-4c75-b44b-41cc07fe7d26" configVersion="8587771b87499f4eaf71e6bdedfbdba000000000"/>
+		<Metadata name="Report.ОтчетПоАрендаторам" id="88bbfe24-e7ae-402b-a896-d766b9979bf2" configVersion="67692b512e2dd3438abadcab4fbb498600000000"/>
+		<Metadata name="Report.ОтчетПоАрендаторам.Template.ОсновнаяСхемаКомпоновкиДанных" id="49fabf9e-f784-4720-be22-4b612b04c2e0" configVersion="774161a27537244d9c72f236adc36feb00000000"/>
+		<Metadata name="Report.ОтчетПоАрендаторам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="49fabf9e-f784-4720-be22-4b612b04c2e0.0" configVersion="574f885b8b2f9446b933b510d13bec2e00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
