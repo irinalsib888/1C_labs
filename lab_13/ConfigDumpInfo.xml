@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Заказчики" id="02476d82-b5d9-45e6-8f65-3f95b6524382" configVersion="3e93a5091be20240a84483e86bd3f03100000000"/>
+		<Metadata name="Catalog.Товары" id="d03a9d75-ef54-434b-ae69-d32356649cf4" configVersion="3dab6d1bef6ab04db06d2b007a7b862000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="bd697378-6e29-4061-88e0-3dcd0f2eb142" configVersion="fa4590f25faf2d43aed401881d85aa6e00000000"/>
+		<Metadata name="Document.ВыдачаЗаказов" id="03b2a150-f9f1-4f51-abdc-f49b533bae75" configVersion="3d1ce785e50a6c408a6cade31fffa37000000000">
+			<Metadata name="Document.ВыдачаЗаказов.TabularSection.СписокЗаказов" id="56309297-5b15-4210-afeb-2f448b558056"/>
+			<Metadata name="Document.ВыдачаЗаказов.TabularSection.СписокЗаказов.Attribute.Заказ" id="82b1c83b-235f-4563-9a85-e841c72628c1"/>
+		</Metadata>
+		<Metadata name="Document.ВыдачаЗаказов.Form.ФормаДокумента" id="abb8bba2-b74e-4fc7-8270-1c594e104fe6" configVersion="607e4073a4e5f141ac80653b633d622b00000000"/>
+		<Metadata name="Document.ВыдачаЗаказов.Form.ФормаДокумента.Form" id="abb8bba2-b74e-4fc7-8270-1c594e104fe6.0" configVersion="7b56a5fb5dbeed4cb1137bcc8826534f00000000"/>
+		<Metadata name="Document.Заказ" id="4c8091bc-eef1-43f2-a44a-5d620650b473" configVersion="0f62b201df6b0747b4e0c7f4a3011ba300000000">
+			<Metadata name="Document.Заказ.TabularSection.СписокТоваров.Attribute.Товар" id="1f5e64ef-9c07-4e8e-a00e-0c557ee656f9"/>
+			<Metadata name="Document.Заказ.TabularSection.СписокТоваров.Attribute.Количество" id="8a04869c-f0b2-4335-8cb6-f3c110c0c982"/>
+			<Metadata name="Document.Заказ.TabularSection.СписокТоваров" id="ceb8d825-c4f5-4b5f-8689-2afc42e68051"/>
+			<Metadata name="Document.Заказ.Command.СоздатьВыдачуЗаказов" id="e4bc3df8-8b3b-49b3-9c8f-061d9871b8be"/>
+			<Metadata name="Document.Заказ.Attribute.Заказчик" id="fdb85e6b-9ed3-44f8-abdc-acf05f9d6546"/>
+		</Metadata>
+		<Metadata name="Document.Заказ.Command.СоздатьВыдачуЗаказов.CommandModule" id="e4bc3df8-8b3b-49b3-9c8f-061d9871b8be.2" configVersion="bf21af19668a3344981df4661f585fd100000000"/>
+		<Metadata name="FilterCriterion.ПоТоварам" id="bce86709-b165-4b56-8465-9b7d3ce72c48" configVersion="176f892a802a334899ffe8f78de2d99500000000"/>
+		<Metadata name="Language.Русский" id="63a36ee2-044c-42bd-8cdb-8c1d000b719f" configVersion="a6ad978b07817b4292659f1699194e9900000000"/>
+		<Metadata name="Report.ПоискПоТоварам" id="be62ceff-8c00-4dc3-898e-94f80a64f167" configVersion="e9f420a7646d8b4c98097f18ae14feaa00000000"/>
+		<Metadata name="Report.ПоискПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных" id="06a52329-79bf-4520-b659-a2ecdc695cde" configVersion="4b4b40fdd542774499358605533f89b700000000"/>
+		<Metadata name="Report.ПоискПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="06a52329-79bf-4520-b659-a2ecdc695cde.0" configVersion="82b18f5264270a4faf08fd62cf666c9b00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
