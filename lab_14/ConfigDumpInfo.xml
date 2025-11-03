@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Валюты" id="83e128b3-0426-4161-be26-89ec5f439447" configVersion="27b9e1f998cd0046acf79fa0d692ea7700000000"/>
+		<Metadata name="Catalog.Валюты.Predefined" id="83e128b3-0426-4161-be26-89ec5f439447.1c" configVersion="e044f8601d747e40b0f4fe3407c69b8e00000000"/>
+		<Metadata name="Catalog.Контрагенты" id="39962fd1-ea6a-4508-b8b9-c431085683d4" configVersion="ded38b17a025a746b5da3f3e67fa9a6300000000"/>
+		<Metadata name="Catalog.Номенклатура" id="acbc6823-ca52-4631-b7bf-d2f0e3bb4ede" configVersion="bf98935d91a6c94d87167584c0832f5e00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ЭтоУслуга" id="7cdecd9e-d051-48d8-af3e-a3437d923ee5"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="bf0935d6-0951-4abb-8679-cf03bac76d59" configVersion="ff6b092c23d6f8448fb0d1106683d87f00000000"/>
+		<Metadata name="Constant.ВестиМноговалютныйУчет" id="50621dcf-4d90-46e2-834f-f61106c2ec25" configVersion="a49c0b71cbd690488519621be9c9125c00000000"/>
+		<Metadata name="Document.Продажи" id="2715fd09-16bc-4bfd-84a7-37ca71aa32f5" configVersion="23a2fbd222d4f34e980d251ed73f7b6f00000000">
+			<Metadata name="Document.Продажи.TabularSection.СписокТоваров.Attribute.Сумма" id="041ec278-0181-4466-ba1f-905a464caf1d"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокУслуг" id="1b01f0e9-d65b-4a11-82f1-6d3b7108e40e"/>
+			<Metadata name="Document.Продажи.Attribute.ВсегоКОплате" id="4f1afb7b-05f4-49d3-8447-448d79af5271"/>
+			<Metadata name="Document.Продажи.Attribute.Валюта" id="76cdc71f-c6d8-48cd-8108-11059054892a"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокТоваров.Attribute.Товар" id="902b28de-434b-4170-9901-2a1c3b2f3ffa"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокУслуг.Attribute.Услуга" id="92cde2f0-a57e-46f4-87db-50b7ed836edf"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокУслуг.Attribute.Сумма" id="a5769475-4c69-4cca-b107-42e8e6ac97af"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокТоваров" id="bedd723b-6626-4d66-9dea-a05b763cd15a"/>
+			<Metadata name="Document.Продажи.Attribute.Покупатель" id="f0f4fa77-e1af-4423-a71f-b28fda0fd798"/>
+		</Metadata>
+		<Metadata name="Document.Продажи.ObjectModule" id="2715fd09-16bc-4bfd-84a7-37ca71aa32f5.0" configVersion="7c080871e276bd44b1ef0bb4253ac64500000000"/>
+		<Metadata name="FunctionalOption.ВестиМноговалютныйУчет" id="be1d8646-7e0e-4915-818a-365f0dcaa2ad" configVersion="027bf17089a1c94085159411edc4c9df00000000"/>
+		<Metadata name="Language.Русский" id="f71585f5-ec42-4559-8654-e94a6d30db2a" configVersion="5084eb38b831a940be9884c0b41de46200000000"/>
+		<Metadata name="Report.Продажи" id="4df9897b-1b56-46a1-9da7-b70b7f4667e3" configVersion="174626a849977e4e8b687360f94fd9c300000000"/>
+		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных" id="c705ff2a-5e56-40e9-af63-d94d5ff812dd" configVersion="a3a1a050fc4849408f12d68fadd926a100000000"/>
+		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="c705ff2a-5e56-40e9-af63-d94d5ff812dd.0" configVersion="a381618ef370534eb03ed325b0a8679700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
