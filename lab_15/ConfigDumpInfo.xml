@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Продажи" id="e2703bb1-237c-4553-be5b-a4626145302f" configVersion="23270ec8cdb6b74f801bcd0b7b1878bc00000000">
+			<Metadata name="AccumulationRegister.Продажи.Resource.Сумма" id="0a34fe52-02b7-48ca-8076-b41e1151f616"/>
+			<Metadata name="AccumulationRegister.Продажи.Dimension.Номенклатура" id="74f7e394-dbc5-4a91-97e0-78b834833d7f"/>
+		</Metadata>
+		<Metadata name="Catalog.Валюты" id="29c7c4f8-79dd-461c-9f3e-777411d82f1c" configVersion="14904bb50fcf3b41beec901750ad68bf00000000"/>
+		<Metadata name="Catalog.Валюты.Predefined" id="29c7c4f8-79dd-461c-9f3e-777411d82f1c.1c" configVersion="198a9c14c7cf4c4285c638b52de2b93d00000000"/>
+		<Metadata name="Catalog.Контрагенты" id="c3cd7bb4-87fc-47a9-9cfe-1c9443d552aa" configVersion="caa42c2da801f3489335aeba807e483f00000000"/>
+		<Metadata name="Catalog.Номенклатура" id="d798afba-b00c-4dc3-a0ea-ae2a2bff88de" configVersion="b1c951a07009364081f93ac02d235c8f00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ЭтоУслуга" id="4d1c8a7f-48e4-4eb4-ba12-e7b665160007"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="8428b140-d8dd-4a05-be6b-6c4e1ad50d4f" configVersion="b961b772410f66418b63cc9530c3dc3f00000000"/>
+		<Metadata name="Constant.ВестиМноговалютныйУчёт" id="0b051f6a-a824-4359-8159-a7fed6436570" configVersion="627f191a8bbc7848a1032edc45bf34cb00000000"/>
+		<Metadata name="Document.Продажи" id="44de1ecc-d75c-4f2f-83be-9fcca79e48cc" configVersion="ea8191775a6d454589afe821d667a8ba00000000">
+			<Metadata name="Document.Продажи.TabularSection.СписокТоваров" id="24bc294b-2b53-446b-a150-181f6de4b114"/>
+			<Metadata name="Document.Продажи.Attribute.Валюта" id="401e7adb-dc88-41c0-bb96-002d57f66894"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокТоваров.Attribute.Сумма" id="61e2411a-2e7b-4fb1-865d-f3437b2f2096"/>
+			<Metadata name="Document.Продажи.Attribute.Покупатель" id="7823edda-d035-4308-bd1f-83aea4cde2bd"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокУслуг" id="b48ab480-e852-4a0a-bc58-61624053cdb7"/>
+			<Metadata name="Document.Продажи.Attribute.ВсегоКОплате" id="b8fea07f-eabd-4e10-a388-800d37673980"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокУслуг.Attribute.Услуга" id="caedf677-b01a-4242-b3b7-0e0f46bd66a8"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокУслуг.Attribute.Сумма" id="e6541236-3dfd-47fa-b174-a3e8049dc08b"/>
+			<Metadata name="Document.Продажи.TabularSection.СписокТоваров.Attribute.Товар" id="f350a53a-ba66-4575-8b20-4d29983a50fe"/>
+		</Metadata>
+		<Metadata name="Document.Продажи.ObjectModule" id="44de1ecc-d75c-4f2f-83be-9fcca79e48cc.0" configVersion="9696f2ef2fedc24982e24caba56bbab000000000"/>
+		<Metadata name="FunctionalOption.ВестиМноговалютныйУчёт" id="9c699980-a9fe-4c6e-b7bb-eeef2dcd2502" configVersion="a492e0117330a94e9c1474d77f0c760100000000"/>
+		<Metadata name="InformationRegister.КурсыВалют" id="9e11ec08-97ec-4419-91ac-055780265745" configVersion="c008fbbfcf588f42b9122248d2b6588300000000">
+			<Metadata name="InformationRegister.КурсыВалют.Resource.Курс" id="62e998eb-683d-428f-98c3-789d84b95d9b"/>
+			<Metadata name="InformationRegister.КурсыВалют.Dimension.Валюта" id="7189b712-dda5-4f9c-b024-40a42ff263a1"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="3e2335d6-674a-45db-baa6-f8ca47e05d9e" configVersion="1fcb293d668fa2429c1c28c224cc91e600000000"/>
+		<Metadata name="Report.Продажи" id="5a266eaf-23f3-475e-b57c-374ef258a978" configVersion="ab389b69c0bcfb45b5a8ad4c5c593eb800000000"/>
+		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных" id="b351e3e6-3f01-484a-bc53-d2628cda965f" configVersion="cd9e6d812d9c9041a148b4d1464c90f100000000"/>
+		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b351e3e6-3f01-484a-bc53-d2628cda965f.0" configVersion="5f19a2acca365d4eaba05b16abc2549200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
